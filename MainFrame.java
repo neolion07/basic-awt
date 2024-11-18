@@ -113,7 +113,7 @@ public class MainFrame extends Frame implements ActionListener{
 		
 		// FRAME SETTINGS
 		setSize(400, 300);
-		setTitle("[insert name]");
+		setTitle("Employee Registry");
 		setVisible(true);
 		setLayout(new GridLayout(8, 1));
 	}
